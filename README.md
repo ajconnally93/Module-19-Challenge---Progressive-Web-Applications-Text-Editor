@@ -10,3 +10,7 @@ Click the deployment link at: https://module-19-pwa-text-editor.herokuapp.com/
 
 # Description
 This is an in-browser text editor that stores data using an IndexedDB API. Right click for the developer tools, go to 'application', and click 'JATE' to see more!
+
+# Screenshot
+
+[!Screenshot](https://media.discordapp.net/attachments/737488379083751485/1074147734254272532/image.png?width=1333&height=675)
